@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Susha Subramaniaru (Git: @sushasru)
-- 👀 I’m a software engineer currently on a break trying to pivot my career to the world of data engineering.
-- 🌱 I’m currently learning Python, Cloud and working to improve my SQL skills to break into the world of data engineering.
-- 💞️ I’m looking to collaborate on any Python or Data engineering related projects to learn and gain experience
+- 👀 I’m a Data Engineer.
+- 🌱 I’m currently learning AI, Cloud and working to improve include AI skills to my Data Engineering profile.
+- 💞️ I’m looking to collaborate on any AI + Data Engineering projects to learn and gain experience
 - 📫 How to reach me - sushasru@gmail.com
 
 <!---
